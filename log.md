@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 22nd May, 2017#####
+### Day 1: 22nd May, 2017
 
 **Today's Progress**: Learnt some git bash commands to become more comfortable with git version control and not just github.
 
@@ -8,5 +8,4 @@
 
 With that in mind, to kick off this challenge, I thought I'd start by getting to know git a little better. This is day 1 or two I intend to spend on git, and today I was only dealing with local repo's. I got quite comfotable with the working directory, staging area and the repository, as well as a deeper understanding of merging branches, .gitignore, and recovering mistakes in the working directory from the staging area. 
 
-**Link to work:** (can't currently work out how to find code I've already submitted on codewars - I shall add to github before moving on in future!)
-
+**Link to work:** https://github.com/Pominaus/100-days-of-code/blob/master/Code/Day%201%20-%20Git%20Bash.md
